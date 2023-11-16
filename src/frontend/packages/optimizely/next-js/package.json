@@ -24,7 +24,7 @@
     "@optimizely/cms": "workspace:^",
     "@types/react": "^18.2.18",
     "cross-fetch": "^4.0.0",
-    "next": "13.4.7",
+    "next": "13.5.0",
     "next-auth": "^4.22.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
