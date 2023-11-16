@@ -6,6 +6,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="EPiServer.CMS.AspNetCore.Templating" Version="12.*" />
         <PackageReference Include="EPiServer.CMS.Core" Version="12.*" />
         <PackageReference Include="EPiServer.CMS.UI.Core" Version="12.*" />
         <PackageReference Include="EPiServer.ContentDeliveryApi.Core" Version="3.*" />
