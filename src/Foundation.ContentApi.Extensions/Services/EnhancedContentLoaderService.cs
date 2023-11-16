@@ -30,8 +30,9 @@ namespace Foundation.ContentApi.Extensions.Services
               WebContextModeResolver contextModeResolver,
               ContentApiOptions contentApiOptions,
               IHttpContextAccessor httpContextAccessor,
-              IContentVersionRepository contentVersionRepository
-        ) : base(contentLoader, permanentLinkMapper, providerManager)
+              IContentVersionRepository contentVersionRepository,
+              IPublishedStateAssessor publishedStateAssessor
+        ) : base(contentLoader, permanentLinkMapper, providerManager, publishedStateAssessor)
         {
             this.contextModeResolver = contextModeResolver;
             this.contentLoader = contentLoader;

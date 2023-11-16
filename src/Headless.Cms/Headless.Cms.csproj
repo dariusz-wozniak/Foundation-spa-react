@@ -96,6 +96,7 @@
 		
         <!-- ImageSharp wrapper for Optimizely CMS -->
         <PackageReference Include="Baaijte.Optimizely.ImageSharp.Web" Version="2.*" />
+        <PackageReference Include="SixLabors.ImageSharp" Version="3.0.2" />
         <PackageReference Include="SixLabors.ImageSharp.Web.Providers.Azure" Version="2.*" />
 		
         <!-- Visitor group criterion for ODP -->
@@ -129,6 +130,5 @@
         <ProjectReference Include="..\Foundation.Settings\Foundation.Settings.csproj" />
         <ProjectReference Include="..\Foundation.ApiExplorer\Foundation.ApiExplorer.csproj" />
         <ProjectReference Include="..\Foundation.ContentActionsApi\Foundation.ContentActionsApi.csproj" />
-        <ProjectReference Include="..\Webhooks\src\DeaneBarker.Optimizely.Webhooks.csproj" />
     </ItemGroup>
 </Project>
