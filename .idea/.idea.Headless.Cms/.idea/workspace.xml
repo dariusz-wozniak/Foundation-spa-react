@@ -10,14 +10,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d02bacef-539b-41c7-ad10-b6e4b1d035e4" name="Changes" comment="fix: add missing param">
-      <change beforePath="$PROJECT_DIR$/NuGet.Config" beforeDir="false" afterPath="$PROJECT_DIR$/NuGet.Config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Foundation.ApiExplorer/nuget.config" beforeDir="false" afterPath="$PROJECT_DIR$/src/Foundation.ApiExplorer/nuget.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Foundation.ContentActionsApi/nuget.config" beforeDir="false" afterPath="$PROJECT_DIR$/src/Foundation.ContentActionsApi/nuget.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Foundation.ContentApi.Extensions/nuget.config" beforeDir="false" afterPath="$PROJECT_DIR$/src/Foundation.ContentApi.Extensions/nuget.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Foundation.ContentApi.Extensions/packages.lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Foundation.ContentApi.Extensions/packages.lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Foundation.Settings/nuget.config" beforeDir="false" afterPath="$PROJECT_DIR$/src/Foundation.Settings/nuget.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Headless.Cms/nuget.config" beforeDir="false" afterPath="$PROJECT_DIR$/src/Headless.Cms/nuget.config" afterDir="false" />
+    <list default="true" id="d02bacef-539b-41c7-ad10-b6e4b1d035e4" name="Changes" comment="chore: remove Webhooks">
+      <change beforePath="$PROJECT_DIR$/src/Webhooks" beforeDir="false" afterPath="$PROJECT_DIR$/src/Webhooks" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +115,23 @@
       <option name="project" value="LOCAL" />
       <updated>1700085049818</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chore: add files to Solution Items">
+      <option name="closed" value="true" />
+      <created>1700137323962</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700137323962</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chore: remove Webhooks">
+      <option name="closed" value="true" />
+      <created>1700137532981</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700137532982</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +151,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="fix: add missing param" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: add missing param" />
+    <MESSAGE value="chore: add files to Solution Items" />
+    <MESSAGE value="chore: remove Webhooks" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: remove Webhooks" />
   </component>
 </project>
