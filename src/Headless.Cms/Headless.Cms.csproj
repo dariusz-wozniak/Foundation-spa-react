@@ -129,6 +129,5 @@
         <ProjectReference Include="..\Foundation.Settings\Foundation.Settings.csproj" />
         <ProjectReference Include="..\Foundation.ApiExplorer\Foundation.ApiExplorer.csproj" />
         <ProjectReference Include="..\Foundation.ContentActionsApi\Foundation.ContentActionsApi.csproj" />
-        <ProjectReference Include="..\Webhooks\src\DeaneBarker.Optimizely.Webhooks.csproj" />
     </ItemGroup>
 </Project>
